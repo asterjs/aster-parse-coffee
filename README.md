@@ -2,7 +2,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
-> JavaScript parser for aster.
+> CoffeeScript parser for aster.
 
 ## Usage
 
