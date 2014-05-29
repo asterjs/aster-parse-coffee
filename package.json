@@ -1,0 +1,26 @@
+{
+  "name": "aster-parse-coffee",
+  "version": "0.0.1",
+  "description": "CoffeeScript parser for aster.",
+  "author": "Ingvar Stepanyan <me@rreverser.com> (https://github.com/RReverser)",
+  "repository": "asterjs/aster-parse-coffee",
+  "license": "MIT",
+  "keywords": [
+    "aster-plugin",
+    "ast",
+    "coffeescript",
+    "parse"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "coffee-script-redux": "^2.0.0-beta8",
+    "estraverse": "^1.5.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "rx": "^2.2.24"
+  }
+}
