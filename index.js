@@ -31,7 +31,7 @@ module.exports = function (options) {
 
 			return {
 				type: 'File',
-				program: CS.compile(csAST, {bare: true}),
+				program: jsAST,
 				loc: {
 					source: ext2js(file.path)
 				}
